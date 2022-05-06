@@ -1,12 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vaibhav Patel",
-  "description": "A project to learn backend development",
-  "keywords": [ "freecodecamp", "backend", "frontend" ],
-  "license": "MIT",
-  "version": "1.1.0",
+	"description": "A project to learn backend development",
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"frontend"
+	],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
