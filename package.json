@@ -3,6 +3,7 @@
 	"author": "Vaibhav Patel",
   "description": "A project to learn backend development",
   "keywords": [ "freecodecamp", "backend", "frontend" ],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
